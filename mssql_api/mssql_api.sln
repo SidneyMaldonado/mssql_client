@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mssql_api", "mssql_api.csproj", "{52362D92-932C-ABD1-B33D-D4E41159736F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52362D92-932C-ABD1-B33D-D4E41159736F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52362D92-932C-ABD1-B33D-D4E41159736F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52362D92-932C-ABD1-B33D-D4E41159736F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52362D92-932C-ABD1-B33D-D4E41159736F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A917294A-315D-429C-BDAE-D13E2C65FC32}
+	EndGlobalSection
+EndGlobal
